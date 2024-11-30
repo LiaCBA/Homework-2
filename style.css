@@ -8,28 +8,18 @@
   height: 200px;
   width: 200px;
 }
-.aboutme {
-  color: blueviolet;
-}
-p {
-  text-align: left;
-}
 .information {
-  color: #c0ffea;
-  background-color: #ff70bc;
+  background-color: aqua;
 }
-.info {
-  color: #fffeca;
-}
-.newinfo {
-  background-color: #ff70bc;
-}
-.additionalinfo {
-  color: #c0ffea;
+.aboutme {
+  font-weight: 700;
 }
 .here {
-  color: #fffeca;
+  color: blue;
 }
-.newcolor {
-  color: white;
+.color {
+  background-color: yellow;
+}
+.info {
+  background-color: rgb(231, 172, 231);
 }
